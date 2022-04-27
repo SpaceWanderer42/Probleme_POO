@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 class Point
 {
     double x, y, z;
